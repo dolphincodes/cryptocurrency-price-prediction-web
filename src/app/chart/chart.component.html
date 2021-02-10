@@ -1,0 +1,12 @@
+<div *ngFor="let item of lineChartData; let i = index" fxLayout="column" fxLayoutAlign="center center">
+  <div  fxLayoutAlign="center center" fxFlex="50vh">
+    <canvas baseChart height="300" width="1000"
+            [datasets]="[lineChartData[i]]"
+            [labels]="lineChartLabels[i]"
+            [options]="lineChartOptions"
+            [colors]="lineChartColors"
+            [legend]="lineChartLegend"
+            [chartType]="lineChartType">
+    </canvas>
+  </div>
+</div>
