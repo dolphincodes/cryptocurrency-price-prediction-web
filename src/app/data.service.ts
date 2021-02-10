@@ -11,7 +11,7 @@ export class DataService {
   }
 
   FetchData(): Observable<any> {
-    return this.http.get('https://crypto-be-304111.el.r.appspot.com/');
+    return this.http.get('https://crypt-304418.el.r.appspot.com/');
   }
 
 
