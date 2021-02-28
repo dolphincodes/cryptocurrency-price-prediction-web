@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1614490354544,
+  "timestamp": 1614502188097,
   "index": "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/favicon.ico",
         "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/index.html",
-        "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/main.cafb46f574735c759009.js",
+        "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/main.83041e1abd11549e99fa.js",
         "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/manifest.webmanifest",
         "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/polyfills.6abdde2583a2e01a2350.js",
         "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/runtime.7b63b9fd40098a2e8207.js",
@@ -52,8 +52,8 @@
     "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/index.html": "330546acdfd4b7bcfb98e37a0516bb532940caab",
-    "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/main.cafb46f574735c759009.js": "82990f1df06f6ed9aa8aef7b0180bed7a35804f9",
+    "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/index.html": "268f789cd32114646577be4f4d5c51a0821acdaa",
+    "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/main.83041e1abd11549e99fa.js": "3a3f249a82bd4112c609b1705a1fcf2ef51d0c4d",
     "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/manifest.webmanifest": "bac00a865f7fbb36c259102ea9822cc958f8484d",
     "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "https://dolphincodes.github.io/cryptocurrency-price-prediction-web/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
